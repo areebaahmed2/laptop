@@ -33,7 +33,7 @@ The dataset includes the following features:
   # Tools Used
   - Python (Pandas, Matplotlib, Seaborn)
 
- - Jupyter Notebook
+   - Jupyter Notebook
 
    # Usage
 - Load the dataset into a Jupyter Notebook.

@@ -15,13 +15,13 @@ The dataset includes the following features:
 
 - RAM: Memory size
 
--Storage: Hard disk or SSD capacity
+- Storage: Hard disk or SSD capacity
 
--OS: Operating system
+- OS: Operating system
 
--Rating: User ratings
+- Rating: User ratings
 
--Price: Laptop price 
+- Price: Laptop price 
 
 # Objectives
 - Identify popular laptop brands and models
